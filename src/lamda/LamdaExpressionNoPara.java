@@ -1,6 +1,6 @@
 package lamda;
 
-public class GenericLamdaImple {
+public class LamdaExpressionNoPara {
 
     public static void main(String args[]){
 
