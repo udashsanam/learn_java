@@ -1,3 +1,5 @@
+import staticlearn.StaticClass;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -33,6 +35,11 @@ public class Main {
 
             System.out.println(students.get(i).toString());
         }
+
+        StaticClass staticClass = new StaticClass();
+
+        staticClass.print("fhdf");
+
 
 
 
